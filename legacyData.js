@@ -1,0 +1,200 @@
+export default {
+    "success": true,
+    "data": {
+        "memes": [
+            {
+                "id": "1",
+                "character": "ominis",
+                "name": "Ominis and Seb in class",
+                "url": "https://i.pinimg.com/564x/c6/08/82/c608829d6a66e2c24e82eafc4427fca5.jpg",
+            },
+            {
+                "id": "2",
+                "character": "ominis",
+                "name": "Ominis and Seb in class 2",
+                "url": "https://i.pinimg.com/564x/e5/02/e2/e502e2f2e829c827127f81e155286f26.jpg",
+            },
+            {
+                "id": "3",
+                "character": "ominis",
+                "name": "Angry Ominis",
+                "url": "https://i.pinimg.com/originals/92/af/59/92af5974903d613164792f43d98dceef.jpg",
+            },
+            {
+                "id": "4",
+                "character": "sebastian",
+                "name": "Seb clapping",
+                "url": "https://i.pinimg.com/564x/32/4f/e4/324fe4f2bb84662189cb7c78f3ddd52f.jpg",
+            },
+            {
+                "id": "5",
+                "character": "ominis",
+                "name": "Ominis sitting",
+                "url": "https://i.pinimg.com/564x/eb/a3/d5/eba3d50cd25228590f188165828986fb.jpg",
+            },
+            {
+                "id": "6",
+                "character": "ominis",
+                "name": "Slick Ominis",
+                "url": "https://i.pinimg.com/564x/15/f7/5a/15f75a3f0a354685bc5205bbed284e11.jpg",
+            },
+            {
+                "id": "7",
+                "character": "ominis",
+                "name": "Ominis3",
+                "url": "https://i.pinimg.com/originals/04/67/4d/04674d45264940941c72ee4fa730f4a3.jpg",
+            },
+            {
+                "id": "8",
+                "character": "sebastian",
+                "name": "Wut Seb",
+                "url": "https://i.pinimg.com/564x/2c/d8/14/2cd81478a21c76d8f7527403b0509aa1.jpg",
+            },
+            {
+                "id": "9",
+                "character": "ominis",
+                "name": "Imperio Ominis",
+                "url": "https://i.pinimg.com/originals/89/4b/1c/894b1c0ea4199156aa5063cfeaf3d9fe.jpg",
+            },
+            {
+                "id": "10",
+                "character": "ominis",
+                "name": "Asleep Ominis",
+                "url": "https://i.pinimg.com/564x/e6/73/68/e673689a4b0410d3c329b9c63b96e1c3.jpg",
+            },
+            {
+                "id": "11",
+                "character": "sebastian",
+                "name": "Reading Seb",
+                "url": "https://i.pinimg.com/564x/4b/18/03/4b1803304dc17318a072a3133a16d4b1.jpg",
+            },
+            {
+                "id": "12",
+                "character": "ominis",
+                "name": "Where is the table Ominis",
+                "url": "https://i.pinimg.com/564x/33/af/e2/33afe23358b377464672d7c214d68f0f.jpg",
+            },
+            {
+                "id": "13",
+                "character": "ominis",
+                "name": "Sad Ominis",
+                "url": "https://i.pinimg.com/564x/5b/2e/bd/5b2ebd082f3ced58fe551c0d7347ad4e.jpg",
+            },
+            {
+                "id": "15",
+                "character": "amit",
+                "name": "Amit 1",
+                "url": "https://i.pinimg.com/564x/e2/84/33/e284332df5507a0fe1ee52bf4e31adb5.jpg",
+            },
+            {
+                "id": "16",
+                "character": "natty",
+                "name": "Happy Natty",
+                "url": "https://i.pinimg.com/564x/13/7c/d8/137cd8a5da68de5743162ffae72eabc4.jpg",
+            },
+            {
+                "id": "17",
+                "character": "sebastian",
+                "name": "Facepalm Seb",
+                "url": "https://i.pinimg.com/564x/0b/ca/72/0bca7247fc2026f50209fc766739ee43.jpg",
+            },
+            {
+                "id": "18",
+                "character": "sebastian",
+                "name": "Idk Seb",
+                "url": "https://i.pinimg.com/564x/f9/96/b9/f996b9e8c723157ab85b7e26f1c58d9d.jpg",
+            },
+            {
+                "id": "19",
+                "character": "sebastian",
+                "name": "Bug Seb",
+                "url": "https://i.pinimg.com/564x/06/0d/8b/060d8b5eb2c7799e6ba43854c60f3708.jpg",
+            },
+            {
+                "id": "20",
+                "character": "ominis",
+                "name": "Thinking Ominis",
+                "url": "https://i.pinimg.com/564x/21/2b/0c/212b0c585112bf293f858f576f3bdb5b.jpg",
+            },
+            {
+                "id": "21",
+                "character": "garreth",
+                "name": "Moments before disaster Garreth",
+                "url": "https://i.pinimg.com/564x/46/5a/70/465a7076be085143749d7bea098049d8.jpg",
+            },
+            {
+                "id": "22",
+                "character": "garreth",
+                "name": "Wut Garreth",
+                "url": "https://i.pinimg.com/564x/59/78/b3/5978b3c82f5534fef72214659d80d2b5.jpg",
+            },
+            {
+                "id": "23",
+                "character": "garreth",
+                "name": "Peace Garreth",
+                "url": "https://i.pinimg.com/564x/7e/66/b0/7e66b011cd08308cedfeca337d0b0e84.jpg",
+            },
+            {
+                "id": "24",
+                "character": "ominis",
+                "name": "Chill Ominis",
+                "url": "https://i.pinimg.com/564x/f7/c8/3a/f7c83ad1d5633b19f13f7fbe8d2e7163.jpg",
+            },
+            {
+                "id": "25",
+                "character": "ominis",
+                "name": "Waiting Ominis",
+                "url": "https://i.pinimg.com/564x/86/67/bd/8667bd5345129719ecbf72d03c1e35e9.jpg",
+            },
+            {
+                "id": "26",
+                "character": "ominis",
+                "name": "Wut Ominis",
+                "url": "https://i.pinimg.com/564x/a4/0b/6d/a40b6de9e2ac6e813cb71518c33669e8.jpg",
+            },
+            {
+                "id": "27",
+                "character": "natty",
+                "name": "Natty 2",
+                "url": "https://i.pinimg.com/564x/2c/bb/e7/2cbbe71f80f6f2e099de577966f0ec4e.jpg",
+            },
+            {
+                "id": "28",
+                "character": "poppy",
+                "name": "Curious Poppy",
+                "url": "https://i.pinimg.com/564x/c1/b3/56/c1b3562022cc756b8f3cc01b751665dc.jpg",
+            },
+            {
+                "id": "29",
+                "character": "poppy",
+                "name": "Poppy fighting",
+                "url": "https://i.pinimg.com/564x/36/d2/73/36d273cc7c37c85deecf17ff1751ea68.jpg",
+            },
+            {
+                "id": "30",
+                "character": "poppy",
+                "name": "Wut Poppy",
+                "url": "https://i.pinimg.com/564x/1d/53/b6/1d53b6fc26d2b0e94806091a980927c7.jpg",
+            },
+            {
+                "id": "31",
+                "character": "leander",
+                "name": "Angry Leander",
+                "url": "https://i.pinimg.com/564x/1a/12/0a/1a120ae33e5dc027b34ce751dacbcfb4.jpg",
+            },
+            {
+                "id": "32",
+                "character": "garreth",
+                "name": "Seen this one before Garreth",
+                "url": "https://i.pinimg.com/564x/5b/03/ce/5b03ce47dea28377dd1e785a4ef52f95.jpg",
+            },
+            {
+                "id": "33",
+                "character": "ominis",
+                "name": "Duel ominis",
+                "url": "https://i.pinimg.com/564x/1b/f2/d0/1bf2d0ca1576a197a16c9cf0b5478c14.jpg",
+            },
+
+        ]
+    }
+}
